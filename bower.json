@@ -1,5 +1,5 @@
 {
-  "name": "torrent-web",
+  "name": "torrent",
   "dependencies": {
     "angular": "1.4.4",
     "angular-material": "0.10.1",
