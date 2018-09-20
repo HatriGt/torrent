@@ -1,5 +1,5 @@
 {
-  "name": "torrent-web",
+  "name": "torrent",
   "version": "1.1.0",
   "main": "server.js",
   "description": "Stream and download torrents directly over http with a web UI",
@@ -16,11 +16,11 @@
     "direct download"
   ],
   "author": {
-    "name": "Andrea Stella",
-    "email": "adr.stella@gmail.com",
-    "url": "http://mccxiv.me/"
+    "name": "hatrigt",
+    "email": "hatrigt@gmail.com",
+    "url": "http://hatrigt.co/"
   },
-  "repository": "mccxiv/torrent-web",
+  "repository": "hatrigt/torrent",
   "preferGlobal": true,
   "license": "ISC",
   "dependencies": {
