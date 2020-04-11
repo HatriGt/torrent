@@ -1,4 +1,4 @@
-# torrent
+# Torrent
 Torrent files can be leeched to private server .
 
 
